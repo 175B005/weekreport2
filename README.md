@@ -11,7 +11,7 @@
 
 [![](https://raw.githubusercontent.com/175B005/weekreport2/master/duki_youtube_5_9.jpg)](https://youtu.be/0lLHwy9VGqc)
 
----
+---txt
 
 ブラウザ上で動くもので、環境に左右されずに
 誰でも簡単に利用できる。
@@ -19,6 +19,7 @@
 ネットに保存されたデータをダウンロードして
 ローカルで使います。
 
+---
 ---
 
 操作方法：
