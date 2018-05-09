@@ -8,6 +8,6 @@
 
 [TinkerCad](https://www.tinkercad.com/#/)
 
-[![]()](https://youtu.be/0lLHwy9VGqc)
+[![](https://raw.githubusercontent.com/175B005/weekreport2/master/duki_youtube_5_9.jpg)](https://youtu.be/0lLHwy9VGqc)
 
 [前](https://github.com/175B005/weekreport) | [次](https://github.com/175B005/weekreport3)
